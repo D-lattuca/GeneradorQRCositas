@@ -1,0 +1,26 @@
+.QrSection{
+    padding: 10px;
+    display: flex;
+   justify-content: center;
+   background-color: bisque;
+}
+
+.Qr {
+flex-direction: row;
+align-items: center;
+}
+.formularioS{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+.LetrasF{
+    font-size: larger;
+    color: black;
+    padding: 5px;
+}
+.btonEnviar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
